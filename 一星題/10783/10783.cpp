@@ -15,7 +15,7 @@ int main()
    if(a%2==1)
     sum+=a;  //當a為奇數，a加進sum
   }
-  cout<<"Case "<<time<<": "<<sum<<endl;  //輸出當次case是第幾次、結果
+  cout<<"Case "<<time<<": "<<sum<<endl;  //輸出當次case是第幾次、結果 
  }
 }
 
